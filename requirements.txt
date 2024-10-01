@@ -2,6 +2,6 @@ streamlit
 pandas
 numpy
 joblib
-xgboost==1.6.0  # Adjust to your training version
-scikit-learn==1.1.2  # Match the version you used for training
+xgboost
+scikit-learn
 utils

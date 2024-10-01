@@ -4,4 +4,4 @@ numpy
 joblib
 xgboost  # If you're using this
 utils
-sklearn
+scikit-learn
